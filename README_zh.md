@@ -1,4 +1,5 @@
 # Point2CAD: Reverse Engineering CAD Models from 3D Point Clouds
+# Point2CAD：从三维点云逆向工程重建 CAD 模型
 
 [![Website](doc/badges/badge-website.svg)](https://www.obukhov.ai/point2cad)
 [![Open In Colab](doc/badges/badge-colab.svg)](https://colab.research.google.com/drive/1o5nNmu1CIn7I5wFFmF8-u7O66Bxqt_xC?usp=sharing)
